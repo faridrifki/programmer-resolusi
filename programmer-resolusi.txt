@@ -1,5 +1,5 @@
 PROGRAMMER RESOLUSI
 - Konsisten akan terus belajar tentang web development
-- Membuat portofolio yang banyak dan beragam
 - Alih profesi pekerjaan menjadi programmer frontend
 - Bisa kerja dari mana saja dengan skill coding
+- Membuat website toko kue yang responsive
